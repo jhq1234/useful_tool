@@ -1,2 +1,2 @@
-# img2array
-This Repository is the toolbox that help the computer vision task with basic work
+# Useful tool box for Computer vision but petty work
+This Repository is the toolbox that help the computer vision but time consuming petty work
