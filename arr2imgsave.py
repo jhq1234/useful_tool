@@ -1,5 +1,5 @@
 def arr2imgsave(x, save_dir):
-    # save the input image x and return PIL.Image.Image
+    # save the image from array x to PIL.Image.Image
     
     # Environment needed
     # from PIL import Image
